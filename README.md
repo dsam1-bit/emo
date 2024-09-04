@@ -1,2 +1,2 @@
 # emo
-my first git repo
+My First git repo
